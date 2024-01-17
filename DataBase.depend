@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1523911664 source:c:\users\hp\desktop\database\main.cpp
+	<stdio.h>
+	<iostream>
+	"Faculty.h"
+	"Student.h"
+
+1523909403 c:\users\hp\desktop\database\faculty.h
+	<vector>
+	"Course.h"
+
+1523911703 c:\users\hp\desktop\database\course.h
+	<string>
+
+1523909827 c:\users\hp\desktop\database\student.h
+	<vector>
+	"Course.h"
+
+1523911727 source:c:\users\hp\desktop\database\course.cpp
+	"Course.h"
+	<iostream>
+
+1523911756 source:c:\users\hp\desktop\database\faculty.cpp
+	"Faculty.h"
+	<iostream>
+
+1523911771 source:c:\users\hp\desktop\database\student.cpp
+	"Student.h"
+	<iostream>
+
+1523911728 source:c:\users\batman\desktop\database\database\course.cpp
+	"Course.h"
+	<iostream>
+
+1523911704 c:\users\batman\desktop\database\database\course.h
+	<string>
+
+1523911758 source:c:\users\batman\desktop\database\database\faculty.cpp
+	"Faculty.h"
+	<iostream>
+
+1523909404 c:\users\batman\desktop\database\database\faculty.h
+	<vector>
+	"Course.h"
+
+1523911772 source:c:\users\batman\desktop\database\database\student.cpp
+	"Student.h"
+	<iostream>
+
+1523909828 c:\users\batman\desktop\database\database\student.h
+	<vector>
+	"Course.h"
+
+1523995514 source:c:\users\batman\desktop\database\database\main.cpp
+	<fstream>
+	<stdio.h>
+	<iostream>
+	"Faculty.h"
+	"Student.h"
+
+1523911728 source:c:\users\hp\desktop\misc\freelance projects\database c++\database\course.cpp
+	"Course.h"
+	<iostream>
+
+1523911704 c:\users\hp\desktop\misc\freelance projects\database c++\database\course.h
+	<string>
+
+1523911758 source:c:\users\hp\desktop\misc\freelance projects\database c++\database\faculty.cpp
+	"Faculty.h"
+	<iostream>
+
+1523909404 c:\users\hp\desktop\misc\freelance projects\database c++\database\faculty.h
+	<vector>
+	"Course.h"
+
+1576421524 source:c:\users\hp\desktop\misc\freelance projects\database c++\database\main.cpp
+	<fstream>
+	<stdio.h>
+	<iostream>
+	"Faculty.h"
+	"Student.h"
+
+1523909828 c:\users\hp\desktop\misc\freelance projects\database c++\database\student.h
+	<vector>
+	"Course.h"
+
+1523911772 source:c:\users\hp\desktop\misc\freelance projects\database c++\database\student.cpp
+	"Student.h"
+	<iostream>
+
